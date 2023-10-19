@@ -12,6 +12,8 @@ Share Images and also there is a social wall where you can Post you content.
 
 ![alt text](https://github.com/Saurabh7Goku/ChatApp/blob/main/assets/ss1.jpeg)
 
+![alt text](https://github.com/Saurabh7Goku/ChatApp/blob/main/assets/ss1.jpeg)
+
 
 ![alt text](https://github.com/Saurabh7Goku/ChatApp/blob/main/assets/ss2.jpeg)
 
