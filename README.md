@@ -10,14 +10,11 @@ Share Images and also there is a social wall where you can Post you content.
 
 ## App ScreenShots
 
-![alt text](https://github.com/Saurabh7Goku/ChatApp/blob/main/assets/ss1.jpeg)
+<img src="https://github.com/Saurabh7Goku/ChatApp/blob/main/assets/ss1.jpeg" width="300" height="500" alt="Screenshot 1">
 
-![alt text](https://github.com/Saurabh7Goku/ChatApp/blob/main/assets/ss1.jpeg)
+<img src="https://github.com/Saurabh7Goku/ChatApp/blob/main/assets/ss2.jpeg" width="300" height="500" alt="Screenshot 2">
 
+<img src="https://github.com/Saurabh7Goku/ChatApp/blob/main/assets/ss3.jpeg" width="300" height="500" alt="Screenshot 3">
 
-![alt text](https://github.com/Saurabh7Goku/ChatApp/blob/main/assets/ss2.jpeg)
-
-
-![alt text](https://github.com/Saurabh7Goku/ChatApp/blob/main/assets/ss3.jpeg)
 
 
