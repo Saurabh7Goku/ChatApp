@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "121066331295",
+    "project_id": "chatapp-e689f",
+    "storage_bucket": "chatapp-e689f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121066331295:android:a88898e1064f253e1296aa",
+        "android_client_info": {
+          "package_name": "com.example.hiddenmenu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBter17jF4-IMKRJ0Y4H9TQjHAs2XQO9Ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
