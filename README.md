@@ -1,16 +1,21 @@
-# hiddenmenu
+# ChatApp
 
-A new Flutter project.
+A new custom Chat App.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Chat App where you can chat with you friend and family.
+All the register members will be show to you contact.
+Share Images and also there is a social wall where you can Post you content.
 
-A few resources to get you started if this is your first Flutter project:
+## App ScreenShots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![alt text]([https://github.com/Saurabh7Goku/ChatApp/blob/main/assets/ss1.jpeg])
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+----
+![alt text]([https://github.com/Saurabh7Goku/ChatApp/blob/main/assets/ss2.jpeg])
+
+----
+![alt text]([https://github.com/Saurabh7Goku/ChatApp/blob/main/assets/ss3.jpeg])
+
+
